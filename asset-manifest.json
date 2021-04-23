@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Merging-School/static/css/main.0803488e.chunk.css",
+    "main.js": "/Merging-School/static/js/main.2669dd37.chunk.js",
+    "main.js.map": "/Merging-School/static/js/main.2669dd37.chunk.js.map",
+    "runtime-main.js": "/Merging-School/static/js/runtime-main.c78bcd6a.js",
+    "runtime-main.js.map": "/Merging-School/static/js/runtime-main.c78bcd6a.js.map",
+    "static/js/2.3cd1f8da.chunk.js": "/Merging-School/static/js/2.3cd1f8da.chunk.js",
+    "static/js/2.3cd1f8da.chunk.js.map": "/Merging-School/static/js/2.3cd1f8da.chunk.js.map",
+    "static/js/3.df3ecb82.chunk.js": "/Merging-School/static/js/3.df3ecb82.chunk.js",
+    "static/js/3.df3ecb82.chunk.js.map": "/Merging-School/static/js/3.df3ecb82.chunk.js.map",
+    "index.html": "/Merging-School/index.html",
+    "static/css/main.0803488e.chunk.css.map": "/Merging-School/static/css/main.0803488e.chunk.css.map",
+    "static/js/2.3cd1f8da.chunk.js.LICENSE.txt": "/Merging-School/static/js/2.3cd1f8da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c78bcd6a.js",
+    "static/js/2.3cd1f8da.chunk.js",
+    "static/css/main.0803488e.chunk.css",
+    "static/js/main.2669dd37.chunk.js"
+  ]
+}
