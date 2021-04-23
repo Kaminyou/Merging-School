@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  background: #FAF8EF;
+}
+
